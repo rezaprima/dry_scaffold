@@ -1,3 +1,10 @@
+
+* Added option to skip controller tests. (pelle)
+
+h1. 0.3.4 (2009-09-14)
+
+* Fixed code generation for RSpec (pelle)
+
 h1. 0.3.1 (2009-09-09)
 
 * Added Rspec tests generation
